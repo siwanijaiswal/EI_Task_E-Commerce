@@ -225,11 +225,11 @@ void displayMenu()
 int main()
 {
     Shop shop;
-    shop.addProductToInventory(Product("Milk", 50, 10));
-    shop.addProductToInventory(Product("Butter", 100, 5));
-    shop.addProductToInventory(Product("Bread", 30, 20));
-    shop.addProductToInventory(Product("Cheese", 150, 5));
-    shop.addProductToInventory(Product("Eggs", 10, 50));
+    shop.addProductToInventory(Product("Laptop",10000,2));
+    shop.addProductToInventory(Product("Headphone", 100, 5));
+    shop.addProductToInventory(Product("Pen", 30, 20));
+    shop.addProductToInventory(Product("Table", 150, 5));
+    shop.addProductToInventory(Product("Chair", 1000, 50));
 
     int choice;
     while (choice != 0)
