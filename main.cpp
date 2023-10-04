@@ -235,6 +235,7 @@ int main()
     while (choice != 0)
     {
         displayMenu();
+        cout<< " Select choice:" << " ";
         cin >> choice;
         switch (choice)
         {
