@@ -1,1 +1,1 @@
-# EI_Task_E-Commerce
+# EI_Task_E-Commerce-Cart
